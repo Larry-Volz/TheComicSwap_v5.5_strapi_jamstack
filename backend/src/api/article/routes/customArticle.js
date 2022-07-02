@@ -2,8 +2,8 @@ module.exports = {
     routes: [
         {
             method: 'GET',
-            path: '/custom',
-            handler: 'article.customAction',
+            path: '/customArticle',
+            handler: 'article.customArticleAction',
             config: {
                 auth: false,
             }
