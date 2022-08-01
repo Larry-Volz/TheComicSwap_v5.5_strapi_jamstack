@@ -23,7 +23,6 @@ module.exports = {
       options: strapiConfig,
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-material-ui`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
